@@ -7,9 +7,9 @@ const daftarProduk = [
 'https://i.pinimg.com/236x/ae/fc/fb/aefcfb94bef9a31adc6bc0781988f19a.jpg' },
  { id: 3, nama: 'Zapati', harga: 120000, gambar:
 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAw7XdVMZWrrIHtk8Nr--qojgYOOP740XMZ5DGwkD7jvIep4CkYqpGTQJ&s=10' },
-{ id: 4, nama: 'Pupuk Segar', harga: 12000, gambar:
+{ id: 4, nama: 'tai sapi', harga: 12000, gambar:
 'https://png.pngtree.com/thumb_back/fh260/background/20220507/pngtree-cow-dung-in-fields-shovel-smell-shit-photo-image_30292706.jpg'},
-{ id: 4, nama: 'Ayam Segar', harga: 1200000000, gambar:
+{ id: 4, nama: 'Ayam retbul', harga: 1200000000, gambar:
 '../public/ayam.jpg'},
 ]
 </script>

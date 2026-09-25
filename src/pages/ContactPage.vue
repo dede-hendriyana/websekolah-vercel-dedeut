@@ -12,17 +12,17 @@
 
         <div class="info-item">
           <h3>📍 Alamat</h3>
-          <p>kampung durian runtung</p>
+          <p>babakan bojong koneng</p>
         </div>
 
         <div class="info-item">
           <h3>📞 Telepon</h3>
-          <p>088210817327</p>
+          <p>089646471081</p>
         </div>
 
         <div class="info-item">
           <h3>✉️ Email</h3>
-          <p>tutang@gmail.com</p>
+          <p>tutangrelix@gmail.com</p>
         </div>
       </div>
 
